@@ -1,0 +1,4 @@
+show_id,type,title,director,cast,country,date_added,release_year,rating,duration,listed_in,description
+s1,TV Show,3%,João Miguel,Mig Brazil,Brazil,2020-01-01,2020,TV-MA,4 Seasons,International,In a future where the elite inhabit an island.
+s2,Movie,7:19,Jorge Michel,Demián Bichir,Mexico,2016-05-10,2016,PG-13,93 min,Dramas,After an earthquake hits Mexico City.
+s3,Movie,23:59,Gilbert Chan,Tedd Chan,Singapore,2013-08-15,2011,R,78 min,Horror,When an army recruit is found dead.

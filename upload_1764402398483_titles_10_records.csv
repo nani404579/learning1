@@ -1,0 +1,11 @@
+show_id,type,title,director,cast,country,date_added,release_year,rating,duration,listed_in,description
+s1,TV Show,3%,João Miguel,Mig Brazil,Brazil,2020-01-01,2020,TV-MA,4 Seasons,International,In a future where the elite inhabit an island.
+s2,Movie,7:19,Jorge Michel,Demián Bichir,Mexico,2016-05-10,2016,PG-13,93 min,Dramas,After an earthquake hits Mexico City.
+s3,Movie,23:59,Gilbert Chan,Tedd Chan,Singapore,2013-08-15,2011,R,78 min,Horror,When an army recruit is found dead.
+s4,Movie,9,Shane Acker,Elijah Wood,United States,2009-10-12,2009,PG-13,80 min,Action,In a post-apocalyptic world.
+s5,Movie,21,Robert Luketic,Jim Sturgess,United States,2010-01-20,2008,PG-13,123 min,Dramas,A brilliant group of students become card-counting experts.
+s6,TV Show,46,Serdar Akar,Erdal Beşikçioğlu,Turkey,2017-07-01,2016,TV-MA,1 Season,International,A genetics professor experiments with a treatment.
+s7,Movie,122,Yasir Al Yasiri,Amr Amin,Egypt,2019-01-20,2019,TV-MA,95 min,Horror,A couple admitted to a grisly hospital.
+s8,Movie,187,Kevin Reynolds,Samuel L. Jackson,United States,2019-11-01,1997,R,119 min,Dramas,"After a student attacks him, a teacher seeks justice."
+s9,Movie,706,Shravan K.,Divya Dutta,India,2019-04-01,2019,TV-MA,138 min,Horror,A doctor goes missing under bizarre circumstances.
+s10,Movie,1920,Vikram Bhatt,Rajneesh Duggal,India,2008-11-10,2008,TV-MA,143 min,Dramas,A farmer pens a confession admitting a crime.

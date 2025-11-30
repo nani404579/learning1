@@ -1,0 +1,19 @@
+spring:
+  r2dbc:
+    url: r2dbc:postgresql://localhost:5432/fluxflix_catalog
+    username: postgres
+    password: password
+
+  datasource:
+    driver-class-name: org.postgresql.Driver   # optional
+
+  main:
+    web-application-type: reactive
+
+  mongodb:
+    uri: mongodb://localhost:27017/fluxflix_users
+
+logging:
+  level:
+    org.springframework.r2dbc: DEBUG
+    org.springframework.data.mongodb: DEBUG
